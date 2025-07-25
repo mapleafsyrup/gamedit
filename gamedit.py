@@ -2,6 +2,7 @@ import tkinter
 from tkinter import *
 from tkinter import ttk
 import os
+import fileread
 
 # Window setup
 root = tkinter.Tk()
